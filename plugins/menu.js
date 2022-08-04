@@ -23,9 +23,6 @@ let menu = `
 ┏━━━━━━━━━━━━━┓
 ┃ *< COMANDOS >*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ඬ⃟💫 _a_
-┣ ඬ⃟💫 _${usedPrefix}cat_
-┣ ඬ⃟💫 _${usedPrefix}dog_
 ┣ ඬ⃟💫 _${usedPrefix}logos_
 ┣ ඬ⃟💫 _${usedPrefix}runtime_
 ┣ ඬ⃟💫 _${usedPrefix}tiktok *[url]*_
@@ -44,23 +41,14 @@ let menu = `
 ┣ ඬ⃟💫 _${usedPrefix}tourl *[imagen]*_
 ┣ ඬ⃟💫 _${usedPrefix}tourl *[video]*_
 ┣ ඬ⃟💫 _${usedPrefix}tourl *[audio]*_
-┣ ඬ⃟💫 _${usedPrefix}fat *[nota de voz]*_
-┣ ඬ⃟💫 _${usedPrefix}bass *[nota de voz]*_
-┣ ඬ⃟💫 _${usedPrefix}blown *[nota de voz]*_
-┣ ඬ⃟💫 _${usedPrefix}deep *[nota de voz]*_
-┣ ඬ⃟💫 _${usedPrefix}fast *[nota de voz]*_
-┣ ඬ⃟💫 _${usedPrefix}robot *[nota de voz]*_
-┣ ඬ⃟💫 _${usedPrefix}slow *[nota de voz]*_
-┣ ඬ⃟💫 _${usedPrefix}tupai *[nota de voz]*_
-┣ ඬ⃟💫 _${usedPrefix}vibra *[nota de voz]*_
-┣ ඬ⃟💫 _${usedPrefix}nightcore *[nota de voz]*_
-┣ ඬ⃟💫 _${usedPrefix}earrape *[nota de voz]*_
-┣ ඬ⃟💫 _${usedPrefix}reverse *[nota de voz]*_
-┣ ඬ⃟💫 _${usedPrefix}smooth *[nota de voz]*_
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┃ *< OWNER >*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟💫 _${usedPrefix}update_
+┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+┃ *< USUARIOS >*
+┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+┣ ඬ⃟💫 _${usedPrefix}cuentas_
 ┗━━━━━━━━━━━━━┛
 `.trim()
 let mentionedJid = [who]
@@ -73,13 +61,13 @@ jpegThumbnail: fs.readFileSync('./Menu2.jpg') },
 hydratedFooterText: '©𝑆𝑖𝑚𝑝𝑙𝑒𝐵𝑜𝑡',
 hydratedButtons: [{
 urlButton: {
-displayText: '𝙶𝙸𝚃𝙷𝚄𝙱',
-url: 'https://github.com/BrunoSobrino/SimpleBot'
+displayText: '𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼',
+url: 'https://www.instagram.com/invites/contact/?i=5yv9hdjlc3sw&utm_content=ohvhscn'
 }},
 {
 urlButton: {
-displayText: '𝙲𝚁𝙴𝙰𝙳𝙾𝚁',
-url: 'https://wa.me/5219992095479'    
+displayText: '︎𝙾𝚆𝙽𝙴𝚁',
+url: 'https://wa.me/34623442554'    
 }},
 {
 quickReplyButton: {
