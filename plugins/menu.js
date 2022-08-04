@@ -54,25 +54,10 @@ let menu = `
 let mentionedJid = [who]
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 templateMessage: {
-hydratedTemplate: {
-hydratedContentText: menu,
 locationMessage: { 
 jpegThumbnail: fs.readFileSync('./Menu2.jpg') },
 hydratedFooterText: '©𝑆𝑖𝑚𝑝𝑙𝑒𝐵𝑜𝑡',
-{    
-quickReplyButton: {
-displayText: null,
-id: null,
-}},
-{
-quickReplyButton: {
-displayText: null,
-id: null,
-}},
-{
-quickReplyButton: {
-displayText: null,
-id: null,
+
 }}]}}
 }), { userJid: m.sender, quoted: m });
 return await conn.relayMessage(
