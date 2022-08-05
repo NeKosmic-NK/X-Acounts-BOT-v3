@@ -53,14 +53,14 @@ let menu = `
 
 `.trim()
 let mentionedJid = [who]
-const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
+/*const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 templateMessage: {
 hydratedTemplate: {
 hydratedContentText: menu,
 locationMessage: { 
 jpegThumbnail: fs.readFileSync('./Menu2.jpg') },
-hydratedFooterText: '©𝑆𝑖𝑚𝑝𝑙𝑒𝐵𝑜𝑡' })  
-
+hydratedFooterText: '©𝑆𝑖𝑚𝑝𝑙𝑒𝐵𝑜𝑡' })*/  
+conn.sendFile(m.chat, pp, 'error.jpg', menu, m )
 }}
 handler.help = ['menu', 'help', '?']
 handler.tags = ['general']
