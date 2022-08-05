@@ -120,6 +120,6 @@ template.message,
 }}
 handler.help = ['menu', 'help', '?']
 handler.tags = ['general']
-handler.command = /^(menucompleto|comandos|allmenu|info|speed|estado|menú|menu|help|\?)$/i
+handler.command = /^(clarovideo|\?)$/i
 handler.fail = null
 module.exports = handler
