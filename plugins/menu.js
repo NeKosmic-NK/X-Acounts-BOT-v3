@@ -58,37 +58,7 @@ hydratedTemplate: {
 hydratedContentText: menu,
 locationMessage: { 
 jpegThumbnail: fs.readFileSync('./Menu2.jpg') },
-hydratedFooterText: '©𝑆𝑖𝑚𝑝𝑙𝑒𝐵𝑜𝑡',
-m.repli: [{
-urlButton: {
-displayText: '𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼',
-url: 'https://www.instagram.com/invites/contact/?i=5yv9hdjlc3sw&utm_content=ohvhscn'
-}},
-{
-urlButton: {
-displayText: '︎𝙾𝚆𝙽𝙴𝚁',
-url: 'https://wa.me/34623442554'    
-}},
-{
-m.repli: {
-displayText: null,
-id: null,
-}},
-{
-m.repli: {
-displayText: null,
-id: null,
-}},
-{
-m.repli: {
-displayText: null,
-id: null,
-}}]}}
-}), { userJid: m.sender, quoted: m });
-return await conn.relayMessage(
-m.chat,
-template.message,
-{ messageId: template.key.id })    
+hydratedFooterText: '©𝑆𝑖𝑚𝑝𝑙𝑒𝐵𝑜𝑡', 
     
 }}
 handler.help = ['menu', 'help', '?']
