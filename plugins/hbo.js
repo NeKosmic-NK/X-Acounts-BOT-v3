@@ -1,4 +1,3 @@
-/*
 const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, downloadContentFromMessage, downloadHistory, proto, getMessage, generateWAMessageContent, prepareWAMessageMedia } = require('@adiwajshing/baileys')
 let fs = require('fs')
 let path = require('path')
@@ -27,51 +26,28 @@ amanecer.3@live.com.ar
 labrujula8
 joseboesmi@yahoo.com.ar
 JOEL1994
+guillendarrell@yahoo.com:Familyis1
+zaki_chy@yahoo.com:Astoria1
+bree.white21@gmail.com:Coolgirl1!
+monroeeli@yahoo.com:Bigmike101
+schwarkjames@yahoo.com:Natalie2008
+jessir2002@gmail.com:MAMA'Sgirl2002
+
 AGRADECER CON CAP!!!
+
 `.trim()
 let mentionedJid = [who]
-const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
+/*const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 templateMessage: {
 hydratedTemplate: {
 hydratedContentText: menu,
 locationMessage: { 
 jpegThumbnail: fs.readFileSync('./Menu2.jpg') },
-hydratedFooterText: '©𝑆𝑖𝑚𝑝𝑙𝑒𝐵𝑜𝑡',
-hydratedButtons: [{
-urlButton: {
-displayText: '𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼',
-url: 'https://www.instagram.com/invites/contact/?i=5yv9hdjlc3sw&utm_content=ohvhscn'
-}},
-{
-urlButton: {
-displayText: '︎𝙾𝚆𝙽𝙴𝚁',
-url: 'https://wa.me/34623442554'    
-}},
-{
-quickReplyButton: {
-displayText: null,
-id: null,
-}},
-{
-quickReplyButton: {
-displayText: null,
-id: null,
-}},
-{
-quickReplyButton: {
-displayText: null,
-id: null,
-}}]}}
-}), { userJid: m.sender, quoted: m });
-return await conn.relayMessage(
-m.chat,
-template.message,
-{ messageId: template.key.id })    
-    
+hydratedFooterText: '©𝑆𝑖𝑚𝑝𝑙𝑒𝐵𝑜𝑡' })*/  
+conn.sendFile(m.chat, pp, 'error.jpg', menu, m )
 }}
 handler.help = ['menu', 'help', '?']
 handler.tags = ['general']
-handler.command = /^(menucompleto|comandos|allmenu|info|speed|estado|menú|menu|help|\?)$/i
+handler.command = /^(hbo|\?)$/i
 handler.fail = null
 module.exports = handler
-*/
