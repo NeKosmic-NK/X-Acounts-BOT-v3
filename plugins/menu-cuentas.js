@@ -34,7 +34,7 @@ let menu = `
 ┣ Recuerda agradecer con captura
 ┣ y con el @ de mi owner
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ wa.me://+34623442554
+┣ wa.me/+34623442554
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ CUENTAS PREMIUM DISPONIBLES
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
