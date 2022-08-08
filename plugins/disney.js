@@ -21,6 +21,12 @@ let menu = `
             
 ▬▬▬▬▬▬▬|[🌟]|▬▬▬▬▬▬
 
+jerielwilliams94@gmail.com:Tbone123
+mohussam_1967@Hotmail.com:Khan1967
+ksolo339@gmail.com:kingdee10
+graylotus23@gmail.com:$howtime23
+devinmontiel@gmail.com:elizabeth1
+
 alezar@gmail.com:Cassian24 | Plan = [Disney+, Hulu, and ESPN+, DISNEY_PLUS, DISNEY_HULU_ADS, Disney Plus Monthly Pre-Sales - US - Web, DISNEY_PLUS] | subType = PAID | Renewal Date = 6/08/2022 23:17:35 | isActive = True | Config Made By = RaReMoDz#3662
 eshughes3@hotmail.com:Shante123! | Plan = [Disney Plus Monthly - Apple - 2021, DISNEY_PLUS] | Renewal Date = 22/08/2022 23:51:43 | isActive = True | Config Made By = RaReMoDz#3662
 dawoudi101@outlook.com:Basket12 | Plan = [Disney Plus Monthly - Apple - 2021, DISNEY_PLUS] | subType = PENDING_LAPSE | Renewal Date = 23/08/2022 20:26:31 | isActive = True | Config Made By = RaReMoDz#3662
