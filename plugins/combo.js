@@ -49,6 +49,54 @@ Disney Plus (No Hit)
 📨 milanyoool16@gmail.com
 
 🔐 regalo@Kp1202
+___________________________
+🔷️DISNEY & STAR +🟠
+♻️ COMBO + ♻️
+
+Email:📧
+Pass:🔑 
+
+❌️NO CAMBIAR NADA
+❌️NO AGREGAR PERFIL
+PARA QUE LA CUENTA DURE.
+◆ ▬▬▬▬ ❴🔰❵ ▬▬▬▬ ◆
+
+📧dpc.sls@hotmail.com
+🔑c9p5au8naa 
+
+📧daniellira113@gmail.com
+🔑daniel74123 
+
+📧redspider05@hotmail.com
+🔑Dnstuff00 
+
+📧tarsis.azevedo@gmail.com
+🔑231988favela 
+
+📧rodrigo.antonio@live.cl
+🔑bebita2012
+
+📧epalacio@bravatec.com.ar
+🔑 Lalomita1981
+
+📧eduardo.harfush.fitzmaurice@live.com
+🔑edua2390
+
+📧yo@miguelangelgutierrez.com.mx
+🔑Mju7nhy6
+
+📧alesaldivia@yahoo.com.ar
+🔑Ren@ultK@le@sAD549RF 
+
+📧samuelscm1@gmail.com
+🔑samu4321  
+
+📧orozcolean@gmail.com
+🔑34870214Emma 
+
+◆ ▬▬▬▬ ❴🔰❵ ▬▬▬▬ ◆
+
+📛| NO CAMBIAR NADA, PARA QUE LA CUENTA LES DURE. UTILIZAR LOS PERFILES QUE ESTÁN AHÍ. 
 
 
 📍| Recuerda Activar Las Notificaciones ✅
