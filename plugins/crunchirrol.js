@@ -18,19 +18,15 @@ let menu = `
 
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 🟠 CRUNCHYROLL ACCOUNT 🟠
-▃▃▃▃▃ 🍀▃▃▃▃▃▃
-✉️ MAIL
-🔒 PASS
- ✉️ minecrafter6467@gmail.com
-🔒WesleyJA64@
-✉️ elite123450@gmail.com
-🔒wolfrider27
-✉️ jairops1988@gmail.com
-🔒jairo1988
-✉️ killerangel173@gmail.com
-🔒Trist@n1
- ✉️ kv7otieno@yahoo.com
-🔒kvoo73692
+▃▃▃▃▃▃▃▃▃▃▃
+✉️kentthe394@gmail.com
+🔒dk2013dk
+✉️neviHD@gmail.com
+🔒Nevi159159!
+✉️leegirardin@yahoo.com
+🔒2b2g$md2
+✉️thouforsak3n@gmail.com
+🔒IS4tx57i
 ▃▃▃▃▃▃▃▃▃▃▃
 ↕️↕️↕️↕️↕️↕️↕️↕️↕️↕️
 📌 www.crunchyroll.com
