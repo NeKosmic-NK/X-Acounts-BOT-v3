@@ -16,7 +16,43 @@ let { min, xp, max } = levelling.xpRange(level, global.multiplier)
 let username = conn.getName(who)
 let menu = `
 
-AUN NO HAY PRODUCTOS
+🔰📤VENTA DE CUENTAS PERSONALES📤🔰
+
+🏷PRIME VIDEO 3 MESES    
+🏷PARAMOUNT+ 2 MESES  
+🏷COMBO 1 MES
+🏷STAR+
+
+📤 CUENTAS POR 1, 2, 3 Y 5 MESES
+
+🏷HBO MAX  
+🏷CRUNCHYROLL 
+🏷TIDAL
+
+📤TAMBIEN CONTAMOS CON HITS (autopagables)
+⚠️STAR+
+⚠️VIKI RAKUTEN
+⚠️PARAMOUNT+
+⚠️CLARO VIDEO
+⚠️DISNEY
+⚠️TELECENTRO
+⚠️IZZIGO
+⚠️UNIVERSAL+
+⚠️PORÑHUB
+⚠️PLEX TV
+⚠️DEEZER
+
+📬SI DESEAS HACER PUBLICIDAD DE TU CANAL U OTRO PEDIDO TAMBIEN ACEPTAMOS
+
+📤| METODOS DE PAGO:
+
+-Paypal
+-AirTM
+- Cryptomonedas (BTC, USDT, LTC, Binance, Coinbase)
+-Nequi 🇨🇴
+-Pago Móvil 🇻🇪
+-Transferencias Ecuador 🇪🇨
+-Yape 🇵🇪
 
 `.trim()
 let mentionedJid = [who]
