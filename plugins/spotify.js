@@ -17,13 +17,14 @@ let username = conn.getName(who)
 let menu = `
 
 Spotify
-12terren12@gmail.com
-11terren11@gmail.com 
-gegak52312@yastle.com
-miriwif460@sunyds.com
-costaricapurav11@gmailcom
-mincho8979
-
+ledad10604@chimpad.com
+cuenta123 = Creditos: Moderador "Spiderman"
+____________________________________________
+caleki5513@yastle.com
+regalo123
+____________________________________________
+Si las cuentas duran sin que le cambien la contraseña, lo recargare de vez en cuando.
+Duracion de las cuentas: 1 mes.
 `.trim()
 let mentionedJid = [who]
 /*const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
