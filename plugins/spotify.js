@@ -16,15 +16,42 @@ let { min, xp, max } = levelling.xpRange(level, global.multiplier)
 let username = conn.getName(who)
 let menu = `
 
-Spotify
-ledad10604@chimpad.com
-cuenta123 = Creditos: Moderador "Spiderman"
-____________________________________________
-caleki5513@yastle.com
-regalo123
-____________________________________________
-Si las cuentas duran sin que le cambien la contraseña, lo recargare de vez en cuando.
-Duracion de las cuentas: 1 mes.
+🟩 CUENTAS DE SPOTIFY PREMIUM 🟩
+⋙▬▬▬▬▬▬★▬▬▬▬▬▬⋘ 
+
+💌 tooeggpin@ccmail.uk
+🔐 tooeggpin@ccmail.uk
+
+💌 skyold536@ccmail.uk
+🔐 skyold536@ccmail.uk
+
+💌 iongasink@ccmail.uk
+🔐 iongasink@ccmail.uk
+
+💌 tapifcow@ccmail.uk
+🔐 tapifcow@ccmail.uk
+
+💌 nortubbat@ccmail.uk
+🔐 nortubbat@ccmail.uk
+
+💌 pegrow189@ccmail.uk
+🔐 pegrow189@ccmail.uk
+
+💌 toospa189@ccmail.uk
+🔐 toospa189@ccmail.uk
+
+💌 nuninpie@ccmail.uk
+🔐 nuninpie@ccmail.uk
+
+💌 netagojug@ccmail.uk
+🔐 netagojug@ccmail.uk
+
+💌 penhamhen@ccmail.uk
+🔐 penhamhen@ccmail.uk
+
+📍| Recuerda Activar Las Notificaciones ✅
+
+⋙▬▬▬▬▬▬★▬▬▬▬▬▬⋘
 `.trim()
 let mentionedJid = [who]
 /*const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
