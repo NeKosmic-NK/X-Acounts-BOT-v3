@@ -20,8 +20,8 @@ let menu = `
 [INSTAGRAM: @nekosmic.nk]
 [TIKTOK: ---]
 ------------------------
-//puedes poner tus redes aqui abajo.
-//recuerda no cambiar nada de los demas adm.
+/*puedes poner tus redes aqui abajo.
+recuerda no cambiar nada de los demas adm.*/
 
 `.trim()
 let mentionedJid = [who]
