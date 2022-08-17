@@ -19,14 +19,23 @@ let menu = `
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 🟠 CRUNCHYROLL ACCOUNT 🟠
 ▃▃▃▃▃▃▃▃▃▃▃
-✉️kentthe394@gmail.com
-🔒dk2013dk
-✉️neviHD@gmail.com
-🔒Nevi159159!
-✉️leegirardin@yahoo.com
-🔒2b2g$md2
-✉️thouforsak3n@gmail.com
-🔒IS4tx57i
+
+jstorrie@ualberta.ca:frogourt | Subscription = cr_premium.1_month 
+josedavidchivo@hotmail.com:maxxd456 | Subscription = cr_fan_pack.1_month 
+rhendricks03@gmail.com:cracker1 | Subscription = cr_fan_pack.1_month 
+juhman112@gmail.com:Andrew12 | Subscription = crunchyroll.google.premium.monthly   
+nickmuffin@hotmail.com:runescape1 | Subscription = cr_premium.1_month 
+jaxsonellis@gmail.com:jaxson99 | Subscription = cr_fan_pack.1_year 
+jacksondream@live.com:91485882 | Subscription = cr_premium.1_month 
+lachsman92@gmail.com:Fireice23! | Subscription = crunchyroll.google.premium.monthly   
+manfromthemoon@hotmail.it:95m9tzqg | Subscription = cr_premium.1_year 
+jrd1250@gmail.com:d4meleeman | Subscription = crunchyroll.google.superfanpack.monthly   
+exodia_netvirus@hotmail.com:chocoman | Subscription = crunchyroll.google.fanpack.annually   
+allentsai_11@hotmail.com:dungeons | Subscription = cr.ios.anime.monthly.7dayft  
+rodrigocorreia2000@hotmail.com:Correia2000 | Subscription = cr_fan_pack.1_month 
+kresen4life@icloud.com:420H0rde!! | Subscription = cr.ios.anime.monthly.7dayft  
+
+📸|Capturas
 ▃▃▃▃▃▃▃▃▃▃▃
 ↕️↕️↕️↕️↕️↕️↕️↕️↕️↕️
 📌 www.crunchyroll.com
