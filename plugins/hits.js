@@ -105,6 +105,6 @@ conn.sendFile(m.chat, pp, 'error.jpg', menu, m )
 }}
 handler.help = ['menu', 'help', '?']
 handler.tags = ['general']
-handler.command = /^(combo|\?)$/i
+handler.command = /^(hits|\?)$/i
 handler.fail = null
 module.exports = handler
