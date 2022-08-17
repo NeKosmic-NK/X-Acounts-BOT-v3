@@ -18,6 +18,16 @@ let menu = `
 
 CUENTAS DE HBO
 NO CAMBIAR LA CONTRASEÑA A NINGUNA CUENTA O DEJAREMOS DE DAR.
+Jeremych7@yahoo.com
+aboutason8 
+teresabulluck@yahoo.com
+bulluck01
+aaronfonde@cox.net
+af33233323 
+maduhhhline@yahoo.com
+Dirtbike$2 
+tiradokevin25@gmail.com
+killer05
 dianaeguzman@yahoo.com.ar
 ehdlc013
 trillo_emiliano@yahoo.com.ar
@@ -33,27 +43,6 @@ monroeeli@yahoo.com:Bigmike101
 schwarkjames@yahoo.com:Natalie2008
 jessir2002@gmail.com:MAMA'Sgirl2002
 _____________________________
-NEW ACCOUNTS!!!
-
-CUENTAS HBO MAX 
-
-"Solo Usar No Cambiar Nada Envien Capturas Para Mas"
-
-amiyashoward@gmail.com:5567890Aa
-enrique.j.gonzalez55@gmail.com:Ianenrique07
-danny-and@hotmail.com:DaniDani214
-logan0403@hotmail.com:@Taelyn2015
-dmiguel070@gmail.com:Miguel_Andrea2020
-robben0204@hotmail.com:Megan0219!
-matt@s2sperform.com:Raiders16#
-mmumin1975@gmail.com:marcin.MROZEK75
-adrianacipere@yahoo.com:Loredan99
-jd81102@hotmail.com:Veneno81
-felipedias15@live.com:Aslvjkxml#165
-info@novaidea.pro:Rs270796
-silvia.malodemolina@gmail.com:Claudiadaniela2
-daliasanchez@gmail.com:*Dalila123
-
 AGRADECER CON CAP!!!
 
 `.trim()
