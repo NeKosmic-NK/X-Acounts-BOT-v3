@@ -40,6 +40,8 @@ let menu = `
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟💫 _${usedPrefix}hbo_
 ┣ ඬ⃟💫 _${usedPrefix}disney_
+┣ ඬ⃟💫 _${usedPrefix}disney2_
+┣ ඬ⃟💫 _${usedPrefix}hits_
 ┣ ඬ⃟💫 _${usedPrefix}acorntv_
 ┣ ඬ⃟💫 _${usedPrefix}crunchirrol_
 ┣ ඬ⃟💫 _${usedPrefix}star_
