@@ -19,6 +19,19 @@ let menu = `
 🔰💳 | Starplus| 💳🔰
             
 ▬▬▬▬▬▬▬|[🌟]|▬▬▬▬▬▬
+NEW ACOUNTS
+_____________
+Star plus Hit
+
+📩 ronaldoteo@hotmail.com
+[/🔑] graceli00
+
+📩 freirepaula1973@gmail.com
+[/🔑] freire1973
+
+Manda cap para más cuentas 📸
+______________________________
+OLDER ACOUNTS
 rogerfrancisilva@yahoo.com.br:urameshi123456 | Plan = [Star Plus Combo Plus Monthly - BR - Web]
 joaovictorsoares2011@bol.com.br:Ladjane0 | Plan = [Combo+ - BR - MERCADOLIBRE - L6 Bundle Upgrade March 2022]
 ricardo.pizarro@bol.com.br:Ri478301 | Plan = [Star Plus Monthly - Google]
